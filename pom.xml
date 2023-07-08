@@ -12,7 +12,7 @@
 	<artifactId>Cards-Commons</artifactId>
 	<version>0.0.1</version>
 	<name>Cards-Commons</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Common items for Cards project</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
