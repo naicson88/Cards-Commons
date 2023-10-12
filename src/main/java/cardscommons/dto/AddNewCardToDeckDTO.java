@@ -28,42 +28,55 @@ public class AddNewCardToDeckDTO {
     public String getName() {
         return name;
     }
+
     public void setName(String name) {
         this.name = name;
     }
+
     public Long getNumber() {
         return number;
     }
+
     public void setNumber(Long number) {
         this.number = number;
     }
+
     public Long getDeckId() {
         return deckId;
     }
+
     public void setDeckId(Long deckId) {
         this.deckId = deckId;
     }
+
     public String getRarity() {
         return rarity;
     }
+
     public void setRarity(String rarity) {
         this.rarity = rarity;
     }
+
     public String getRarityCode() {
         return rarityCode;
     }
+
     public void setRarityCode(String rarityCode) {
         this.rarityCode = rarityCode;
     }
+
     public String getRarityDetails() {
         return rarityDetails;
     }
+
     public void setRarityDetails(String rarityDetails) {
         this.rarityDetails = rarityDetails;
     }
+
     public double getPrice() {
         return price;
     }
+
     public void setPrice(double price) {
         this.price = price;
     }
